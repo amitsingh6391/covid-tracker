@@ -1,6 +1,10 @@
 # tgd_covid_tracker_app
 
-A new Flutter project.
+Covid tracker is a flutter which help us to track the covid conditon in our area 
+Featues:
+1 you can find the most affected country by covid and their statics
+2 you can also track country wise
+3 dark and light mode
 
 ## Getting Started
 
