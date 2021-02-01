@@ -1,4 +1,4 @@
-# tgd_covid_tracker_app
+# Covid_Tracker
 
 Covid tracker is a flutter which help us to track the covid conditon in our area 
 Featues:
